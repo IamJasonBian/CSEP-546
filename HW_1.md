@@ -27,6 +27,8 @@ may assume X and Y take on a discrete values if you find that is easier to work 
 
    a. [1 points] If E[Y |X] = X show that Cov(X, Y ) = E[(X − E[X])^2].
    
+   https://math.stackexchange.com/questions/1479316/show-that-covx-y-covx-eyx
+   
    b. [1 points] If X, Y are independent show that Cov(X, Y ) = 0.
 
 
