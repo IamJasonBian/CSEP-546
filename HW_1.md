@@ -14,8 +14,8 @@ giving the final result.)
 
             Following Bays Rule:
 
-<img src = "https://user-images.githubusercontent.com/16582383/136335845-7d9954d8-20f9-4363-8261-ac7af3784b94.png" height = "50" /)
-<img src = "https://user-images.githubusercontent.com/16582383/136337413-036e8726-4242-4610-a2e7-d874b200ba0d.png" height = "50" /)
+<img src="https://user-images.githubusercontent.com/16582383/136335845-7d9954d8-20f9-4363-8261-ac7af3784b94.png" height = "50" /)
+<img src="https://user-images.githubusercontent.com/16582383/136337413-036e8726-4242-4610-a2e7-d874b200ba0d.png" height = "50" /)
 
 
 2. For any two random variables X, Y the covariance is defined as Cov(X, Y ) = E[(X − E[X])(Y − E[Y ])]. You
