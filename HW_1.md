@@ -1,5 +1,6 @@
-#### CSEP 546 
-## Jason Bian, jasonb73
+## CSEP 546 
+### Jason Bian
+### jasonb73
 
 1. [2 points] (Bayes Rule, from Murphy exercise 2.4.) After your yearly checkup, the doctor has bad news and
 good news. The bad news is that you tested positive for a serious disease, and that the test is 99% accurate
