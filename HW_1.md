@@ -18,7 +18,7 @@ giving the final result.)
             Following Bays Rule:
             
 
-            <img src="https://user-images.githubusercontent.com/16582383/136339299-34fb8b8a-c788-480d-98cb-16287044c6df.png" height="150" />
+      <img src="https://user-images.githubusercontent.com/16582383/136339299-34fb8b8a-c788-480d-98cb-16287044c6df.png" height="150" />
 
 
 
