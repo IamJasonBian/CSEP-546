@@ -5,12 +5,12 @@ negative given that you dont have the disease). The good news is that this is a 
 in 10,000 people. What are the chances that you actually have the disease? (Show your calculations as well as
 giving the final result.)
 
-      p(x = 1 | y = 1) = 0.99
-      p(y = 1) = 0.0001
-      y = 1 is the event I have the disease
-      x = 1 is the event of testing positive
+            p(x = 1 | y = 1) = 0.99
+            p(y = 1) = 0.0001
+            y = 1 is the event I have the disease
+            x = 1 is the event of testing positive
 
-      Following Bays Rule
+            Following Bays Rule
 
-      p(y = 1| x = 1) = 
+            p(y = 1| x = 1) = 
 
