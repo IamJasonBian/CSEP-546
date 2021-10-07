@@ -13,7 +13,7 @@
 
             Following Bays Rule:
             
-
+![image](https://user-images.githubusercontent.com/16582383/136450441-09f38d48-ed5e-4afc-96d9-3962bf729355.png)
 
 ![image](https://user-images.githubusercontent.com/16582383/136450327-194658c0-ca36-4a0b-b1e2-863c65abafe6.png)
 
