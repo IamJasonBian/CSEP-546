@@ -39,6 +39,11 @@ may assume X and Y take on a discrete values if you find that is easier to work 
 that for any a, b ∈ R, we have that Y = aX + b is also Gaussian, find a, b such that Y ∼ N (0, 1).
 
    ![image](https://user-images.githubusercontent.com/16582383/136449974-015facc9-d0ee-435f-97fb-0f44d6b6301c.png)
+   
+   
+![image](https://user-images.githubusercontent.com/16582383/136450227-4529e53d-7655-440c-8ecf-2d05c9baefc4.png)
+
+
 
 
 
