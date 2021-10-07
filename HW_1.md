@@ -32,6 +32,13 @@ may assume X and Y take on a discrete values if you find that is easier to work 
    b. [1 points] If X, Y are independent show that Cov(X, Y ) = 0.
    
    ![image](https://user-images.githubusercontent.com/16582383/136343614-73c21015-f9f3-49ea-a0c8-aea5b5b5a0a7.png)
+   
+3. [1 points] A random variable X ∼ N (µ, σ2
+) is Gaussian distributed with mean µ and variance σ
+2
+. Given
+that for any a, b ∈ R, we have that Y = aX + b is also Gaussian, find a, b such that Y ∼ N (0, 1).
+
 
 
 
