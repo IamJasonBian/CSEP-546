@@ -37,6 +37,8 @@
 
 ![image](https://user-images.githubusercontent.com/16582383/136457315-a8b4ae25-3bec-4383-9d91-497e30d15c8d.png)
 
+https://www.win.tue.nl/~rmcastro/2WS17/files/ecdf_hist.pdf
+
 ![image](https://user-images.githubusercontent.com/16582383/136457277-6413682f-c735-464a-9e9a-18b23ba40273.png)
 
 
