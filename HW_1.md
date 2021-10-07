@@ -15,7 +15,7 @@ giving the final result.)
             Following Bays Rule:
 
 ![image](https://user-images.githubusercontent.com/16582383/136335845-7d9954d8-20f9-4363-8261-ac7af3784b94.png)
-![image](https://user-images.githubusercontent.com/16582383/136336733-d4c0b96e-903a-48f9-8f91-991175436ed2.png)
+<a href="https://www.codecogs.com/eqnedit.php?latex=\small&space;0.009804&space;=&space;\frac{(0.99&space;*&space;0.0001)}
 
 2. For any two random variables X, Y the covariance is defined as Cov(X, Y ) = E[(X − E[X])(Y − E[Y ])]. You
 may assume X and Y take on a discrete values if you find that is easier to work with.
