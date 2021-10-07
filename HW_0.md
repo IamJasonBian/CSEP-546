@@ -1,11 +1,7 @@
 ## CSEP 546 | Jason Bian | jasonb73
 
-1. [2 points] (Bayes Rule, from Murphy exercise 2.4.) After your yearly checkup, the doctor has bad news and
-good news. The bad news is that you tested positive for a serious disease, and that the test is 99% accurate
-(i.e., the probability of testing positive given that you have the disease is 0.99, as is the probability of testing
-negative given that you dont have the disease). The good news is that this is a rare disease, striking only one
-in 10,000 people. What are the chances that you actually have the disease? (Show your calculations as well as
-giving the final result.)
+![image](https://user-images.githubusercontent.com/16582383/136450304-97c3bb40-8dfc-4a4e-92af-bcebffb6ca39.png)
+
 
             p(x = 1 | y = 1) = 0.99
             p(x = 1 | y = 0) = 0.99
@@ -21,9 +17,8 @@ giving the final result.)
       <img src="https://user-images.githubusercontent.com/16582383/136339299-34fb8b8a-c788-480d-98cb-16287044c6df.png" height="150" />
 
 
+![image](https://user-images.githubusercontent.com/16582383/136450327-194658c0-ca36-4a0b-b1e2-863c65abafe6.png)
 
-2. For any two random variables X, Y the covariance is defined as Cov(X, Y ) = E[(X − E[X])(Y − E[Y ])]. You
-may assume X and Y take on a discrete values if you find that is easier to work with.
 
    a. [1 points] If E[Y |X] = X show that Cov(X, Y ) = E[(X − E[X])^2].
    
@@ -33,10 +28,7 @@ may assume X and Y take on a discrete values if you find that is easier to work 
    
    ![image](https://user-images.githubusercontent.com/16582383/136343614-73c21015-f9f3-49ea-a0c8-aea5b5b5a0a7.png)
    
-3. [1 points] A random variable X ∼ N (µ, σ^2
-) is Gaussian distributed with mean µ and variance σ^2
-. Given
-that for any a, b ∈ R, we have that Y = aX + b is also Gaussian, find a, b such that Y ∼ N (0, 1).
+![image](https://user-images.githubusercontent.com/16582383/136450351-c47eca10-6540-469c-9f0c-846391e96811.png)
 
    ![image](https://user-images.githubusercontent.com/16582383/136449974-015facc9-d0ee-435f-97fb-0f44d6b6301c.png)
    
