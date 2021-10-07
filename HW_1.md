@@ -19,7 +19,10 @@ giving the final result.)
 
 2. For any two random variables X, Y the covariance is defined as Cov(X, Y ) = E[(X − E[X])(Y − E[Y ])]. You
 may assume X and Y take on a discrete values if you find that is easier to work with.
-a. [1 points] If E[Y |X] = X show that Cov(X, Y ) = E[(X − E[X])2
+
+a. [1 points] If E[Y |X] = X show that Cov(X, Y ) = E[(X − E[X])
+
+2
 ].
 b. [1 points] If X, Y are independent show that Cov(X, Y ) = 0.
 
