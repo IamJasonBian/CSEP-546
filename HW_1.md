@@ -15,7 +15,8 @@ giving the final result.)
             Following Bays Rule:
 
 ![image](https://user-images.githubusercontent.com/16582383/136335845-7d9954d8-20f9-4363-8261-ac7af3784b94.png)
-![image](https://user-images.githubusercontent.com/16582383/136336607-d5821adf-cec0-4fe2-8304-19d36e81966b.png)
+![image](https://user-images.githubusercontent.com/16582383/136336733-d4c0b96e-903a-48f9-8f91-991175436ed2.png)
+
 
 
 
