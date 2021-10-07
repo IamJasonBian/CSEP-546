@@ -12,6 +12,8 @@ giving the final result.)
 
             Following Bays Rule
 
-       p(y = 1| x = 1) = ![image](https://user-images.githubusercontent.com/16582383/136335676-7b319355-539b-43b9-8b81-8e67fc28359c.png)
+            p(y = 1| x = 1) =
+            
+![image](https://user-images.githubusercontent.com/16582383/136335676-7b319355-539b-43b9-8b81-8e67fc28359c.png)
 
 
