@@ -10,10 +10,9 @@ giving the final result.)
             y = 1 is the event I have the disease
             x = 1 is the event of testing positive
 
-            Following Bays Rule
+            Following Bays Rule:
 
-            p(y = 1| x = 1) =
-            
-![image](https://user-images.githubusercontent.com/16582383/136335676-7b319355-539b-43b9-8b81-8e67fc28359c.png)
+![image](https://user-images.githubusercontent.com/16582383/136335845-7d9954d8-20f9-4363-8261-ac7af3784b94.png)
+
 
 
