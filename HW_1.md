@@ -11,6 +11,7 @@ giving the final result.)
             p(x = 1 | y = 0) = 0.99
             
             p(y = 1) = 0.0001
+            
             y = 1 is the event I have the disease
             x = 1 is the event of testing positive
 
