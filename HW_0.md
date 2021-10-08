@@ -1,5 +1,9 @@
 ## CSEP 546 | Jason Bian | jasonb73
 
+Example Github Latex (For Paper + Text Translation): ![equation](http://latex.codecogs.com/gif.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/16582383/136450304-97c3bb40-8dfc-4a4e-92af-bcebffb6ca39.png)
 
@@ -48,7 +52,6 @@ https://www.win.tue.nl/~rmcastro/2WS17/files/ecdf_hist.pdf
 
 ![image](https://user-images.githubusercontent.com/16582383/136502104-7fcf5bd0-bac5-4645-9e00-da43f239c68f.png)
 
-![equation](http://latex.codecogs.com/gif.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
 
 
 
