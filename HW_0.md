@@ -47,6 +47,8 @@ https://www.win.tue.nl/~rmcastro/2WS17/files/ecdf_hist.pdf
 
 ![image](https://user-images.githubusercontent.com/16582383/136502104-7fcf5bd0-bac5-4645-9e00-da43f239c68f.png)
 
+$ e^{i \pi} + 1 = 0 $
+
 
 
 
