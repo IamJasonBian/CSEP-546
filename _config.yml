@@ -1,0 +1,4 @@
+#Jekyll configuration
+name: Homework 0
+description: CSEP-546
+markdown: kramdown
