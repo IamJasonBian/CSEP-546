@@ -22,7 +22,7 @@
 
 
 =======
- ![equation](https://latex.codecogs.com/svg.image?0.009804&space;=&space;\frac{0.99*0.0001}{0.99*0.0001&space;&plus;&space;0.01*0.9999}" title="0.009804 = \frac{0.99*0.0001}{0.99*0.0001 + 0.01*0.9999})
+![image](https://user-images.githubusercontent.com/16582383/136724579-6f074d4b-b811-4133-b1c6-8515ac2a18c0.png)
 
 
 =======
