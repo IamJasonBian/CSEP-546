@@ -4,11 +4,6 @@
 
 
 
-![image](https://latex.codecogs.com/svg.image?0.009804%20=%20%5Cfrac%7B0.99*0.0001%7D%7B0.99*0.0001%20&plus;%200.01*0.9999%7D)
-=======
-
-
-
 ![image](https://user-images.githubusercontent.com/16582383/136450304-97c3bb40-8dfc-4a4e-92af-bcebffb6ca39.png)
 
 
