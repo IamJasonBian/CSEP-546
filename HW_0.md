@@ -70,6 +70,9 @@ With Gauss-Jordan Elimination:
 
 ![image](https://user-images.githubusercontent.com/16582383/136836775-ce2082e8-b42b-438b-bc56-241781b137ba.png)
 
+![image](https://user-images.githubusercontent.com/16582383/136838255-5e7cc2a3-ce99-4275-8785-6b30402db8bb.png)
+
+
 
 
 
