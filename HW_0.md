@@ -20,10 +20,8 @@
 ![image](https://user-images.githubusercontent.com/16582383/136724579-6f074d4b-b811-4133-b1c6-8515ac2a18c0.png)
 
 ![image](https://user-images.githubusercontent.com/16582383/136450327-194658c0-ca36-4a0b-b1e2-863c65abafe6.png)
->>>>>>> parent of 176d542 (Update HW_0.md)
-
-   
-   https://math.stackexchange.com/questions/1479316/show-that-covx-y-covx-eyx
+  
+https://math.stackexchange.com/questions/1479316/show-that-covx-y-covx-eyx
    
    
    ![image](https://user-images.githubusercontent.com/16582383/136343614-73c21015-f9f3-49ea-a0c8-aea5b5b5a0a7.png)
