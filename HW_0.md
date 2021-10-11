@@ -50,6 +50,9 @@ https://www.win.tue.nl/~rmcastro/2WS17/files/ecdf_hist.pdf
 
 ![image](https://user-images.githubusercontent.com/16582383/136735321-f034af8e-9397-4ef9-9853-283f751ddc82.png)
 
+![image](https://user-images.githubusercontent.com/16582383/136735448-dad1636f-f9d0-4081-8745-0861ea6e87c6.png)
+
+
 
 
 
