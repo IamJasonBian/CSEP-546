@@ -1,25 +1,16 @@
 ## CSEP 546 | Jason Bian | jasonb73
 
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
 
 
 
->>>>>>> parent of 812400d (Update HW_0.md)
 ![image](https://latex.codecogs.com/svg.image?0.009804%20=%20%5Cfrac%7B0.99*0.0001%7D%7B0.99*0.0001%20&plus;%200.01*0.9999%7D)
 =======
 
 
 
-=======
->>>>>>> parent of a5f4ff4 (Update HW_0.md)
-
 ![image](https://user-images.githubusercontent.com/16582383/136450304-97c3bb40-8dfc-4a4e-92af-bcebffb6ca39.png)
->>>>>>> parent of 176d542 (Update HW_0.md)
+
 
 
             p(x = 1 | y = 1) = 0.99
@@ -34,11 +25,9 @@
             
  ![equation](https://latex.codecogs.com/svg.image?p(y=1%7Cx=1)%20=%20%5Cfrac%7Bp(x=1%7Cy=1)p(y=1)%7D%7Bp(x=1%7Cy=1)p(y=1)%20&plus;%20p(x=1%7Cy=0)p(y=0)%7D)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
  ![equation](https://latex.codecogs.com/svg.image?0.009804&space;=&space;\frac{0.99*0.0001}{0.99*0.0001&space;&plus;&space;0.01*0.9999}" title="0.009804 = \frac{0.99*0.0001}{0.99*0.0001 + 0.01*0.9999})
->>>>>>> parent of 812400d (Update HW_0.md)
 
 
 =======
