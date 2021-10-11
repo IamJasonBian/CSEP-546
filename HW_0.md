@@ -30,6 +30,9 @@ https://math.stackexchange.com/questions/1479316/show-that-covx-y-covx-eyx
 
    ![image](https://user-images.githubusercontent.com/16582383/136449974-015facc9-d0ee-435f-97fb-0f44d6b6301c.png)
    
+   ![image](https://user-images.githubusercontent.com/16582383/136725932-0a28d29e-fb58-4dfe-816a-80ae07e68587.png)
+
+   
    
 ![image](https://user-images.githubusercontent.com/16582383/136450227-4529e53d-7655-440c-8ecf-2d05c9baefc4.png)
 
