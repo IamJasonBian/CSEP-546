@@ -1,9 +1,6 @@
 ## CSEP 546 | Jason Bian | jasonb73
 
 
-
-
-
 ![image](https://user-images.githubusercontent.com/16582383/136450304-97c3bb40-8dfc-4a4e-92af-bcebffb6ca39.png)
 
 
@@ -18,14 +15,10 @@
 
             Following Bays Rule:
             
- ![equation](https://latex.codecogs.com/svg.image?p(y=1%7Cx=1)%20=%20%5Cfrac%7Bp(x=1%7Cy=1)p(y=1)%7D%7Bp(x=1%7Cy=1)p(y=1)%20&plus;%20p(x=1%7Cy=0)p(y=0)%7D)
+![equation](https://latex.codecogs.com/svg.image?p(y=1%7Cx=1)%20=%20%5Cfrac%7Bp(x=1%7Cy=1)p(y=1)%7D%7Bp(x=1%7Cy=1)p(y=1)%20&plus;%20p(x=1%7Cy=0)p(y=0)%7D)
 
-
-=======
 ![image](https://user-images.githubusercontent.com/16582383/136724579-6f074d4b-b811-4133-b1c6-8515ac2a18c0.png)
 
-
-=======
 ![image](https://user-images.githubusercontent.com/16582383/136450327-194658c0-ca36-4a0b-b1e2-863c65abafe6.png)
 >>>>>>> parent of 176d542 (Update HW_0.md)
 
