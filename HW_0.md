@@ -22,6 +22,9 @@
 ![image](https://user-images.githubusercontent.com/16582383/136450327-194658c0-ca36-4a0b-b1e2-863c65abafe6.png)
   
 https://math.stackexchange.com/questions/1479316/show-that-covx-y-covx-eyx
+
+   ![image](https://user-images.githubusercontent.com/16582383/136725932-0a28d29e-fb58-4dfe-816a-80ae07e68587.png)
+
    
    
    ![image](https://user-images.githubusercontent.com/16582383/136343614-73c21015-f9f3-49ea-a0c8-aea5b5b5a0a7.png)
@@ -30,7 +33,6 @@ https://math.stackexchange.com/questions/1479316/show-that-covx-y-covx-eyx
 
    ![image](https://user-images.githubusercontent.com/16582383/136449974-015facc9-d0ee-435f-97fb-0f44d6b6301c.png)
    
-   ![image](https://user-images.githubusercontent.com/16582383/136725932-0a28d29e-fb58-4dfe-816a-80ae07e68587.png)
 
    
    
