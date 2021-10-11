@@ -20,7 +20,7 @@
             
  ![equation](https://latex.codecogs.com/svg.image?p(y=1%7Cx=1)%20=%20%5Cfrac%7Bp(x=1%7Cy=1)p(y=1)%7D%7Bp(x=1%7Cy=1)p(y=1)%20&plus;%20p(x=1%7Cy=0)p(y=0)%7D)
 
-![equation(https://latex.codecogs.com/svg.image?0.009804%20=%20%5Cfrac%7B0.99*0.0001%7D%7B0.99*0.0001%20&plus;%200.01*0.9999%7D)
+ ![equation](https://latex.codecogs.com/svg.image?0.009804%20=%20%5Cfrac%7B0.99*0.0001%7D%7B0.99*0.0001%20&plus;%200.01*0.9999%7D)
 
 
 
