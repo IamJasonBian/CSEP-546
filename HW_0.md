@@ -52,7 +52,11 @@ https://www.win.tue.nl/~rmcastro/2WS17/files/ecdf_hist.pdf
 
 ![image](https://user-images.githubusercontent.com/16582383/136735448-dad1636f-f9d0-4081-8745-0861ea6e87c6.png)
 
+![image](https://user-images.githubusercontent.com/16582383/136736913-eb6008f9-f540-4712-be3e-a41ea3c2b94f.png)
+
 ![image](https://user-images.githubusercontent.com/16582383/136735904-319bcdc5-02c9-456d-9d91-bebd7cd9b151.png)
+
+![image](https://user-images.githubusercontent.com/16582383/136736920-731fc9c1-bd64-4083-999d-91450ca4920b.png)
 
 With Gauss-Jordan Elimination:
 
