@@ -22,12 +22,9 @@
 ![image](https://user-images.githubusercontent.com/16582383/136450327-194658c0-ca36-4a0b-b1e2-863c65abafe6.png)
 >>>>>>> parent of 176d542 (Update HW_0.md)
 
-
-   a. [1 points] If E[Y |X] = X show that Cov(X, Y ) = E[(X − E[X])^2].
    
    https://math.stackexchange.com/questions/1479316/show-that-covx-y-covx-eyx
    
-   b. [1 points] If X, Y are independent show that Cov(X, Y ) = 0.
    
    ![image](https://user-images.githubusercontent.com/16582383/136343614-73c21015-f9f3-49ea-a0c8-aea5b5b5a0a7.png)
    
