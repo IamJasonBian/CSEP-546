@@ -54,6 +54,11 @@ https://www.win.tue.nl/~rmcastro/2WS17/files/ecdf_hist.pdf
 
 ![image](https://user-images.githubusercontent.com/16582383/136735904-319bcdc5-02c9-456d-9d91-bebd7cd9b151.png)
 
+With Gauss-Jordan Elimination:
+
+![image](https://user-images.githubusercontent.com/16582383/136736857-960a7e4e-4336-42fa-b314-e0786b08cd72.png)
+
+
 
 
 
