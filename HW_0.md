@@ -48,6 +48,9 @@ https://www.win.tue.nl/~rmcastro/2WS17/files/ecdf_hist.pdf
 
 ![image](https://user-images.githubusercontent.com/16582383/136734738-256afce9-e0d9-4653-ac93-6aa4ef849121.png)
 
+![image](https://user-images.githubusercontent.com/16582383/136735198-dc25f2b0-6386-4c89-87f2-2595f2454331.png)
+
+
 
 
 
