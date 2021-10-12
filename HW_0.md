@@ -88,7 +88,7 @@ With Gauss-Jordan Elimination:
 
 ![image](https://user-images.githubusercontent.com/16582383/136883307-521b1a76-0edc-40e2-bd81-79bcebab04c3.png)
 
-![image](https://user-images.githubusercontent.com/16582383/136889188-ce431c19-6cca-48e6-a1fb-712e0979f2d7.png)
+![image](https://user-images.githubusercontent.com/16582383/136889260-5a01b10b-c437-436c-aac7-7efd69137d5e.png)
 
 ![image](https://user-images.githubusercontent.com/16582383/136836688-804f73af-11f0-4f10-85d7-bbe3885baf35.png)
 
