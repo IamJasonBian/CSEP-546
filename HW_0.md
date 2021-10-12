@@ -79,6 +79,8 @@ With Gauss-Jordan Elimination:
 
 ![image](https://user-images.githubusercontent.com/16582383/136876264-c9fc6f08-ae59-48df-b194-754d8232f2dc.png)
 
+![image](https://user-images.githubusercontent.com/16582383/136880712-ff35b71b-af76-414c-968b-15e7cac9c35f.png)
+
 ![image](https://user-images.githubusercontent.com/16582383/136876740-efda517c-f6e5-4d06-afc1-11be500e2c4f.png)
 
 ![image](https://user-images.githubusercontent.com/16582383/136876756-deb9569a-66d1-4562-abb5-1eb29e51e5fa.png)
